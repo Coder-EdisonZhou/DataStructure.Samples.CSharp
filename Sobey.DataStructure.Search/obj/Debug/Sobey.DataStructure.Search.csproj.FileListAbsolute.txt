@@ -1,0 +1,5 @@
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Search\bin\Debug\Sobey.DataStructure.Search.exe
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Search\bin\Debug\Sobey.DataStructure.Search.pdb
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Search\obj\Debug\Sobey.DataStructure.Search.exe
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Search\obj\Debug\Sobey.DataStructure.Search.pdb
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Search\obj\Debug\Sobey.DataStructure.Search.csprojResolveAssemblyReference.cache

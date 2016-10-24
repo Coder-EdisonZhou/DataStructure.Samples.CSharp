@@ -1,0 +1,12 @@
+E:\Projects\dotnet\Sobey.DataStructure\Sobey.DataStructure.Stack\bin\Debug\Sobey.DataStructure.Stack.exe.config
+E:\Projects\dotnet\Sobey.DataStructure\Sobey.DataStructure.Stack\bin\Debug\Sobey.DataStructure.Stack.exe
+E:\Projects\dotnet\Sobey.DataStructure\Sobey.DataStructure.Stack\bin\Debug\Sobey.DataStructure.Stack.pdb
+E:\Projects\dotnet\Sobey.DataStructure\Sobey.DataStructure.Stack\obj\Debug\Sobey.DataStructure.Stack.csprojResolveAssemblyReference.cache
+E:\Projects\dotnet\Sobey.DataStructure\Sobey.DataStructure.Stack\obj\Debug\Sobey.DataStructure.Stack.exe
+E:\Projects\dotnet\Sobey.DataStructure\Sobey.DataStructure.Stack\obj\Debug\Sobey.DataStructure.Stack.pdb
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Stack\bin\Debug\Sobey.DataStructure.Stack.exe.config
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Stack\obj\Debug\Sobey.DataStructure.Stack.exe
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Stack\obj\Debug\Sobey.DataStructure.Stack.pdb
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Stack\bin\Debug\Sobey.DataStructure.Stack.exe
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Stack\bin\Debug\Sobey.DataStructure.Stack.pdb
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Stack\obj\Debug\Sobey.DataStructure.Stack.csprojResolveAssemblyReference.cache

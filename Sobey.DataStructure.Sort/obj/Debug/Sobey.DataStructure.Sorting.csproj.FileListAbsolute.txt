@@ -1,0 +1,5 @@
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Sort\bin\Debug\Sobey.DataStructure.Sorting.exe
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Sort\bin\Debug\Sobey.DataStructure.Sorting.pdb
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Sort\obj\Debug\Sobey.DataStructure.Sorting.exe
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Sort\obj\Debug\Sobey.DataStructure.Sorting.pdb
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Sort\obj\Debug\Sobey.DataStructure.Sorting.csprojResolveAssemblyReference.cache

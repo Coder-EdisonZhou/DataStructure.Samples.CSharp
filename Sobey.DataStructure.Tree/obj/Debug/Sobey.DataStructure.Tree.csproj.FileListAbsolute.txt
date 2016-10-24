@@ -1,0 +1,5 @@
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Tree\bin\Debug\Sobey.DataStructure.Tree.exe
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Tree\bin\Debug\Sobey.DataStructure.Tree.pdb
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Tree\obj\Debug\Sobey.DataStructure.Tree.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Tree\obj\Debug\Sobey.DataStructure.Tree.exe
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Tree\obj\Debug\Sobey.DataStructure.Tree.pdb

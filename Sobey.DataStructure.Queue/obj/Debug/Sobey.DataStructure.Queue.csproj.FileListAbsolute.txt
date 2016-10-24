@@ -1,0 +1,6 @@
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Queue\bin\Debug\Sobey.DataStructure.Queue.exe.config
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Queue\obj\Debug\Sobey.DataStructure.Queue.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Queue\bin\Debug\Sobey.DataStructure.Queue.exe
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Queue\bin\Debug\Sobey.DataStructure.Queue.pdb
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Queue\obj\Debug\Sobey.DataStructure.Queue.exe
+E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Queue\obj\Debug\Sobey.DataStructure.Queue.pdb
