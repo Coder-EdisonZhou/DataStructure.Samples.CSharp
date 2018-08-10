@@ -45,4 +45,8 @@
 
 　　　　  排序：{ 插入排序、交换排序、选择排序、归并排序 }
 
-URL：http://www.cnblogs.com/edisonchou/p/3843287.html
+### 参考博文
+
+URL：<http://www.cnblogs.com/edisonchou/p/3843287.html>
+
+> @EdisonChou
