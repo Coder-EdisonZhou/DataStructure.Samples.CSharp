@@ -1,0 +1,12 @@
+E:\Projects\dotnet\EDC.DataStructure\EDC.DataStructure.Stack\bin\Debug\EDC.DataStructure.Stack.exe.config
+E:\Projects\dotnet\EDC.DataStructure\EDC.DataStructure.Stack\bin\Debug\EDC.DataStructure.Stack.exe
+E:\Projects\dotnet\EDC.DataStructure\EDC.DataStructure.Stack\bin\Debug\EDC.DataStructure.Stack.pdb
+E:\Projects\dotnet\EDC.DataStructure\EDC.DataStructure.Stack\obj\Debug\EDC.DataStructure.Stack.csprojResolveAssemblyReference.cache
+E:\Projects\dotnet\EDC.DataStructure\EDC.DataStructure.Stack\obj\Debug\EDC.DataStructure.Stack.exe
+E:\Projects\dotnet\EDC.DataStructure\EDC.DataStructure.Stack\obj\Debug\EDC.DataStructure.Stack.pdb
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Stack\bin\Debug\EDC.DataStructure.Stack.exe.config
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Stack\obj\Debug\EDC.DataStructure.Stack.exe
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Stack\obj\Debug\EDC.DataStructure.Stack.pdb
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Stack\bin\Debug\EDC.DataStructure.Stack.exe
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Stack\bin\Debug\EDC.DataStructure.Stack.pdb
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Stack\obj\Debug\EDC.DataStructure.Stack.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.LinkedList\bin\Debug\Sobey.DataStructure.LinkedList.exe
-E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.LinkedList\bin\Debug\Sobey.DataStructure.LinkedList.pdb
-E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.LinkedList\obj\Debug\Sobey.DataStructure.LinkedList.exe
-E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.LinkedList\obj\Debug\Sobey.DataStructure.LinkedList.pdb
-E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.LinkedList\obj\Debug\Sobey.DataStructure.LinkedList.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Graph\bin\Debug\Sobey.DataStructure.Graph.exe
-E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Graph\bin\Debug\Sobey.DataStructure.Graph.pdb
-E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Graph\obj\Debug\Sobey.DataStructure.Graph.exe
-E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Graph\obj\Debug\Sobey.DataStructure.Graph.pdb
-E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.Graph\obj\Debug\Sobey.DataStructure.Graph.csprojResolveAssemblyReference.cache

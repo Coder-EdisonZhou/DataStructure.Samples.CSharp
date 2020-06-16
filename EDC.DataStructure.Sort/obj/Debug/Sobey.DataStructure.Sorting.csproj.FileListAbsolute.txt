@@ -1,0 +1,5 @@
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Sort\bin\Debug\EDC.DataStructure.Sorting.exe
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Sort\bin\Debug\EDC.DataStructure.Sorting.pdb
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Sort\obj\Debug\EDC.DataStructure.Sorting.exe
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Sort\obj\Debug\EDC.DataStructure.Sorting.pdb
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Sort\obj\Debug\EDC.DataStructure.Sorting.csprojResolveAssemblyReference.cache

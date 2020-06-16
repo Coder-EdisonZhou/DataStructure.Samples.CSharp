@@ -1,0 +1,5 @@
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Graph\bin\Debug\EDC.DataStructure.Graph.exe
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Graph\bin\Debug\EDC.DataStructure.Graph.pdb
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Graph\obj\Debug\EDC.DataStructure.Graph.exe
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Graph\obj\Debug\EDC.DataStructure.Graph.pdb
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Graph\obj\Debug\EDC.DataStructure.Graph.csprojResolveAssemblyReference.cache

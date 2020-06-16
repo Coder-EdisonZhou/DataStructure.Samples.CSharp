@@ -1,0 +1,5 @@
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Tree\bin\Debug\EDC.DataStructure.Tree.exe
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Tree\bin\Debug\EDC.DataStructure.Tree.pdb
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Tree\obj\Debug\EDC.DataStructure.Tree.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Tree\obj\Debug\EDC.DataStructure.Tree.exe
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Tree\obj\Debug\EDC.DataStructure.Tree.pdb

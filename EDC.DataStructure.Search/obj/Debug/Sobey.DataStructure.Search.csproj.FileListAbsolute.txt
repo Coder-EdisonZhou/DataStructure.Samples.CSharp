@@ -1,0 +1,5 @@
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Search\bin\Debug\EDC.DataStructure.Search.exe
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Search\bin\Debug\EDC.DataStructure.Search.pdb
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Search\obj\Debug\EDC.DataStructure.Search.exe
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Search\obj\Debug\EDC.DataStructure.Search.pdb
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Search\obj\Debug\EDC.DataStructure.Search.csprojResolveAssemblyReference.cache

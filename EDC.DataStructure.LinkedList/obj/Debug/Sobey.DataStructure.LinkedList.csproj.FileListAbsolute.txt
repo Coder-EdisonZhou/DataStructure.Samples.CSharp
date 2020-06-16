@@ -1,0 +1,5 @@
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.LinkedList\bin\Debug\EDC.DataStructure.LinkedList.exe
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.LinkedList\bin\Debug\EDC.DataStructure.LinkedList.pdb
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.LinkedList\obj\Debug\EDC.DataStructure.LinkedList.exe
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.LinkedList\obj\Debug\EDC.DataStructure.LinkedList.pdb
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.LinkedList\obj\Debug\EDC.DataStructure.LinkedList.csprojResolveAssemblyReference.cache

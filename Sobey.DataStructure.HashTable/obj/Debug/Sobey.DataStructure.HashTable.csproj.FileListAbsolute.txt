@@ -1,5 +1,0 @@
-E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.HashTable\bin\Debug\Sobey.DataStructure.HashTable.exe
-E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.HashTable\bin\Debug\Sobey.DataStructure.HashTable.pdb
-E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.HashTable\obj\Debug\Sobey.DataStructure.HashTable.csprojResolveAssemblyReference.cache
-E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.HashTable\obj\Debug\Sobey.DataStructure.HashTable.exe
-E:\Project Files\dotNetProjects\Sobey.DataStructure\Sobey.DataStructure.HashTable\obj\Debug\Sobey.DataStructure.HashTable.pdb

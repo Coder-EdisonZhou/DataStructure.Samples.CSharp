@@ -1,0 +1,5 @@
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.HashTable\bin\Debug\EDC.DataStructure.HashTable.exe
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.HashTable\bin\Debug\EDC.DataStructure.HashTable.pdb
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.HashTable\obj\Debug\EDC.DataStructure.HashTable.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.HashTable\obj\Debug\EDC.DataStructure.HashTable.exe
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.HashTable\obj\Debug\EDC.DataStructure.HashTable.pdb

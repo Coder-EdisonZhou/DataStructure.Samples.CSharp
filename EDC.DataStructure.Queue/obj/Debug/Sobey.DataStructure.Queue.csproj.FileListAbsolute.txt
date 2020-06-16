@@ -1,0 +1,6 @@
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Queue\bin\Debug\EDC.DataStructure.Queue.exe.config
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Queue\obj\Debug\EDC.DataStructure.Queue.csprojResolveAssemblyReference.cache
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Queue\bin\Debug\EDC.DataStructure.Queue.exe
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Queue\bin\Debug\EDC.DataStructure.Queue.pdb
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Queue\obj\Debug\EDC.DataStructure.Queue.exe
+E:\Project Files\dotNetProjects\EDC.DataStructure\EDC.DataStructure.Queue\obj\Debug\EDC.DataStructure.Queue.pdb
